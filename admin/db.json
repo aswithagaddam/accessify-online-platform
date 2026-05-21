@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "/src/assets/product_1.png",
+      "new_price": 50.0,
+      "old_price": 80.5,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "/src/assets/product_2.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "/src/assets/product_3.png",
+      "new_price": 60.0,
+      "old_price": 100.5,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "/src/assets/product_4.png",
+      "new_price": 100.0,
+      "old_price": 150.0,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "/src/assets/product_13.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "/src/assets/product_14.png",
+      "new_price": 90.0,
+      "old_price": 130.5,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kids",
+      "image": "/src/assets/product_25.png",
+      "new_price": 45.0,
+      "old_price": 70.5,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kids",
+      "image": "/src/assets/product_26.png",
+      "new_price": 50.0,
+      "old_price": 75.5,
+      "available": true
+    }
+  ],
+  "users": [],
+  "cart": []
+}
+
+
